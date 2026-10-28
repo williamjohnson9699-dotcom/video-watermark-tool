@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.mp4
+*.mov
+*.mkv
+已处理视频/
